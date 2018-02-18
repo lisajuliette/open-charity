@@ -1,0 +1,28 @@
+name = Open Charity
+description = This is a custom theme built for the Open Charity.
+package = Core
+version = VERSION
+core = 7.x
+
+stylesheets[all][] = css/layout.css
+
+regions[header] = Header
+regions[content] = Content
+regions[slider] = Slider
+regions[next_event] = Next event
+regions[get_involved] = Get involved
+regions[our_mission] = Our mission
+regions[our_members] = Our members
+regions[blog_slider] = Blog slider
+regions[footer] = Footer
+
+settings[shortcut_module_link] = 0
+
+
+; Information added by Drupal.org packaging script on 2017-06-21
+version = "7.x"
+project = "drupal"
+datestamp = "1498069849"
+
+
+
